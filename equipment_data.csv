@@ -1,0 +1,4 @@
+equipment_id,timestamp,sensor_reading,failure
+1122,30,1,1
+1123,25,2,1
+1112,31,3,0
